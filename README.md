@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GZ-W7
 - 👀 I’m interested in almost all things tech.
-- 🌱 I’m currently learning how not to cry becuase of code.
+- 🌱 I’m currently learning how not to cry because of code.
 - 💞️ I’m currently busy with my own project.
 - 📫 How to reach me: if you don't know how then don't.
 - ⚡ Fun fact: I am alive as of this moment.
